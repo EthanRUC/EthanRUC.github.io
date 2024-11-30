@@ -12,9 +12,10 @@ About Me
 ======
 My name is Yi Zhang, and I am an Assistant Professor in the School of Mathematics at Renmin University of China (RUC). I received my Bachelor of Science in Mathematics and Applied Mathematics from Capital Normal University (CNU) in 2014, my Master of Science in Operations Research from Renmin University of China (RUC) in 2016, and my Ph.D. in Probability Theory and Mathematical Statistics from Renmin University of China (RUC) in 2020, where I was advised by Prof. [Jinwu Gao](https://econ.ouc.edu.cn/2020/1002/c29676a443564/page.htm).
 
-Getting started
+Research
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+My research interests are as follows:
+1. {\it Methodologies}: Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
