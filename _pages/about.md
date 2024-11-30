@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-My name is Yi Zhang, and I am an Assistant Professor in the School of Mathematics at Renmin University of China (RUC). I received my Bachelor of Science in Mathematics and Applied Mathematics from Capital Normal University (CNU) in 2014, my Master of Science in Operations Research from Renmin University of China (RUC) in 2016, and my Ph.D. in Probability Theory and Mathematical Statistics from Renmin University of China (RUC) in 2020, where I was advised by Prof. Jinwu Gao.
+My name is Yi Zhang, and I am an Assistant Professor in the School of Mathematics at Renmin University of China (RUC). I received my Bachelor of Science in Mathematics and Applied Mathematics from Capital Normal University (CNU) in 2014, my Master of Science in Operations Research from Renmin University of China (RUC) in 2016, and my Ph.D. in Probability Theory and Mathematical Statistics from Renmin University of China (RUC) in 2020, where I was advised by Prof. [Jinwu Gao](https://econ.ouc.edu.cn/2020/1002/c29676a443564/page.htm).
 
 Getting started
 ======
